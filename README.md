@@ -14,32 +14,32 @@
 ### Results
 
 #### Naive Random Oversampling
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png]
+![Naive Sampling][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png]
 * Balanced Accuracy Score: 63%
 * Precision Score: 99%
 * Recall Score: 68%
 #### SMOTE Oversampling
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/SMOTE_Oversampling.png]
+![SMOTE Sampling][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/SMOTE_Oversampling.png]
 * Balanced Accuracy Score: 63%
 * Precision Score: 99%
 * Recall Score: 63%
 #### Undersampling
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Undersampling.png]
+![Undersampling][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Undersampling.png]
 * Balanced Accuracy Score: 51%
 * Precision Score: 99%
 * Recall Score: 44%
 #### Combination Sampling
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Combination_Sampling.png]
+![Combination Sampling][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Combination_Sampling.png]
 * Balanced Accuracy Score: 61%
 * Precision Score: 99%
 * Recall Score: 54%
 #### Balanced Random Forest Classifier
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Balanced_Random_Forest_Classifier.png]
+![Balanced Forest Classifier][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Balanced_Random_Forest_Classifier.png]
 * Balanced Accuracy Score: 78%
 * Precision Score: 99%
 * Recall Score: 91%
 #### Ensemble Adaboost Classifier
-![https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Easy_Ensemble_Adaboost_Classifier.png]
+![Ensemble Adaboost Classifier][https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Easy_Ensemble_Adaboost_Classifier.png]
 * Balanced Accuracy Score: 93%
 * Precision Score: 99%
 * Recall Score: 94%
